@@ -1,2 +1,8 @@
 # SentriAI-
-AI-driven system designed to predict and mitigate early student dropout rates in educational institution
+AI-driven system designed to predict and mitigate early student dropout rates in educational institution.
+SentriAI analyzes student data (academic performance,
+attendance, engagement, etc.) to predict the likelihood of dropout.
+The system provides a user-friendly dashboard with risk scores,
+alerts, and recommended interventions. This enables educators
+and administrators to proactively address student needs and
+prevent dropout.
