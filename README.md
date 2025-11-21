@@ -38,7 +38,11 @@ Features
 	Admin Dashboard
 
 •	Total number of students 
+
 •	Categorised by risk level (Low / Medium / High).
+
 •	Trendlines for dropout risk across terms.
+
 •	Filtering by class, grade, gender, age, or program.
+
 •	Heatmaps showing attendance and performance patterns.
