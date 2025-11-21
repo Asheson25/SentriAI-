@@ -21,16 +21,22 @@ Table of Content
 
 Overview
 Schools cannot often identify at-risk students before it is too late. The SentriAI is an AI-driven platform that helps schools identify students at risk of dropping out by analysing attendance, academic performance, behaviour trends, and engagement signals. The system provides early warning alerts, risk explanations, and intervention recommendations, enabling educators to take timely and targeted action:
+
 •	Detect at-risk students early using predictive analytics.
+
 •	Give teachers, administrators, and counsellors a single, reliable dashboard for monitoring risk.
+
 •	Provide clear explanations and recommended interventions for each flagged student.
+
 •	Reduce dropout rates by improving the speed and quality of interventions.
 
 Features
 	AI Predictions & Explanations
+
 •	Risk prediction generated using classification models.
 
 	Admin Dashboard
+
 •	Total number of students 
 •	Categorised by risk level (Low / Medium / High).
 •	Trendlines for dropout risk across terms.
